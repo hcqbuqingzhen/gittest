@@ -3,3 +3,4 @@
  cccc=9
  dddd=00
  dev=0000
+ stash=dev+dev+dev
