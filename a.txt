@@ -1,4 +1,4 @@
- aaaaa=1号开发是二号的ggggg+22222+dev
+ aaaaa=1号开发是二号的ggggg+22222+fix
  bbbb=1号开发人员添加11
  cccc=master+fix bug
  dddd=00组长修复了bug
