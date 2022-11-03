@@ -1,6 +1,6 @@
  aaaaa=0
  bbbb=7
- cccc=master
+ cccc=master+fix bug
  dddd=00
  dev=0000
  stash=dev+dev
