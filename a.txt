@@ -5,4 +5,3 @@
  dev=0000+dev1+dev1
  stash=dev+dev+dev
  man=dev2
- 2号开发正在开发dev新功能
