@@ -1,5 +1,5 @@
  aaaaa=0
- bbbb=7
+ bbbb=2号开发人员添加
  cccc=master+fix bug
  dddd=00组长修复了bug
  dev=0000+dev1+dev1
@@ -7,5 +7,3 @@
  man=dev2+组长休复bug2
  2号开发正在开发dev新功能
  组长开发新功能2
-
-
