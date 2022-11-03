@@ -1,7 +1,7 @@
  aaaaa=0
  bbbb=7
  cccc=master+fix bug
- dddd=00
+ dddd=00组长修复了bug
  dev=0000+dev1+dev1
  stash=dev+dev+dev
  man=dev2
