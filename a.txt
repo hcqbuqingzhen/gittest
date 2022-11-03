@@ -4,6 +4,11 @@
  dddd=00组长修复了bug
  dev=0000+dev1+dev1
  stash=dev+dev+dev
+<<<<<<< HEAD
  man=dev2
  2号开发正在开发dev新功能
  组长开发新功能2
+=======
+ man=dev2+组长休复bug2
+ 2号开发正在开发dev新功能
+>>>>>>> fix03
