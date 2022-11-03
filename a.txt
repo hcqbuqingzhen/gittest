@@ -2,5 +2,5 @@
  bbbb=7
  cccc=9
  dddd=00
- dev=0000
+ dev=0000+dev1
  stash=dev+dev+dev
