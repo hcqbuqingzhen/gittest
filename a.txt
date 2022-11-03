@@ -2,5 +2,6 @@
  bbbb=7
  cccc=master+fix bug
  dddd=00
- dev=0000
- stash=dev+dev
+ dev=0000+dev1+dev1
+ stash=dev+dev+dev
+ man=dev2
