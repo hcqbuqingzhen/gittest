@@ -6,3 +6,4 @@
  stash=dev+dev+dev
  man=dev2
  2号开发正在开发dev新功能
+ 组长开发新功能2
