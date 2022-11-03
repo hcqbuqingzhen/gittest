@@ -5,3 +5,7 @@
  dev=0000+dev1+dev1
  stash=dev+dev+dev
  man=dev2
+<<<<<<< HEAD
+=======
+ man=dev2
+>>>>>>> 51609b1 (  dev2 2 commit  a.txt)
