@@ -7,5 +7,4 @@
  man=dev2+组长休复bug2
  2号开发正在开发dev新功能
  组长开发新功能2
- 测试commit和pull1
-
+ 测试commit和pull1 第二次
